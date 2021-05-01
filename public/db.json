@@ -1,0 +1,48 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "sku": 3257,
+            "title": "RESTful Web API",
+            "description": "an API created with ASP.NET Core, for existing projects",
+            "price": 50,
+            "available": ["API", "ASP.NET"]
+        },
+
+        {
+            "id": 2,
+            "sku": 6341,
+            "title": "A multi-page Website",
+            "description": "A complete website created with HTML5, CSS3 and JavaScript",
+            "price": 100,
+            "available": ["HTML", "CSS", "JavaScript"]
+        },
+
+        {
+            "id": 3,
+            "sku": 4612,
+            "title": "A single-page Web application",
+            "description": "A complete website created with React and JSX-syntax",
+            "price": 100,
+            "available": ["React"]
+        },
+
+        {
+            "id": 4,
+            "sku": 5231,
+            "title": "A .NET web application",
+            "description": "A complete web application created with ASP.NET Core, Razor pages and C#",
+            "price": 150,
+            "available": ["ASP.NET"]
+        },
+
+        {
+            "id": 5,
+            "sku": 7862,
+            "title": "A database",
+            "description": "A complete database created with PHP, and MySQL, for existing projects",
+            "price": 50,
+            "available": ["database"]
+        }
+    ]
+}
